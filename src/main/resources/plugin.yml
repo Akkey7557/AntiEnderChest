@@ -1,0 +1,3 @@
+name: AntiEnderChest
+version: '${project.version}'
+main: com.antienderchest.antienderchest.AntiEnderChest
